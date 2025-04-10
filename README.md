@@ -17,5 +17,26 @@ This project was designed to assist the sales division of our client, an Ed-Tech
 ## Methodology
 
 ### Data Analysis
-- **Exploratory Data Analysis (EDA):** Conducted comprehensive EDA to understand lead information and course details which have been proposed to them or they are interested on.
+- **Exploratory Data Analysis (EDA):** Conducted comprehensive EDA to understand lead information and course details which have been proposed to them or they are interested in.
 - **Feature Engineering:** Refined and transformed data to be more effective for predictive modeling.
+### Predictive Modelling
+- **Model Development:** Built a machine learning model to analyze lead attributes and it's effect in increasing propensity of leads being scored.
+- **Model Validation:** Ensured the accuracy and reliability of model by comparing the performance of the various algorithms used.
+
+---
+
+## Outcomes
+- **Lead Scoring Predicition**: Accurately predicted which leads would be interested in buying the courses.
+- **Customer Identification**: Understand from the diverse marketing data which are the most important drivers for product sales.
+
+---
+
+## Models used for classification
+1. Logistic Regression
+2. Naive Bayes
+3. Decision Tree
+4. Random Forest
+
+---
+
+## Model evaluation
