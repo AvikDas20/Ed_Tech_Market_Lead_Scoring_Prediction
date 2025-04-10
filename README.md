@@ -1,4 +1,4 @@
-# Edtech Market Lead Scoring Prediction
+# Ed Tech Market Lead Scoring Prediction
 Developing a machine learning model for an ed tech company to predict the propensity of buying a course based on the lead information details such as number of calls by salesperson etc.
 
 ## Overview
