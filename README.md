@@ -34,8 +34,7 @@ This project was designed to assist the sales division of our client, an Ed-Tech
 ## Models used for classification
 1. Logistic Regression
 2. Naive Bayes
-3. Decision Tree
-4. Random Forest
+3. Random Forest
 
 ---
 
